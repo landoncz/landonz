@@ -1,0 +1,40 @@
+<!-- BEGIN CONTENT -->
+        <div class="largeText" style="color: #670000;">
+        <strong>Add TSPay.com Edit Customer</strong>
+        <br><br>
+        </div>
+        
+        <div style="width: 95%; align: center; text-align: center; border: 1px solid #AEAEAE;">
+        <br><br>
+        <form action="customers.php" method="POST">
+        <input type="hidden" name="action" value="do_edit">
+        	<table align="center" width="70%" border="0" cellpadding="5">
+        	<tr><td class="normalText" align="right">Email Address:</td>
+        		<td align="left"><input name="email" type="text" class="FormBoxLarge" value="<!--{EMAIL}-->"> *</td></tr>
+        	<tr><td class="normalText" align="right">First Name:</td>
+        		<td align="left"><input name="firstName" type="text" class="FormBox" value="<!--{FIRST_NAME}-->"></td></tr>
+        	<tr><td class="normalText" align="right">Last Name:</td>
+        		<td align="left"><input name="lastName" type="text" class="FormBox" value="<!--{LAST_NAME}-->"></td></tr>
+        	<tr><td class="normalText" align="right">Category:</td>
+        		<td align="left">
+        		<select name="category" class="FormBox">
+        		<!--{CATEGORY_OPTIONS}-->
+        		</select></td>
+        	</tr>
+        	<tr><td class="normalText" align="right">Street:</td>
+        		<td align="left"><input name="street" type="text" class="FormBoxLarge" value="<!--{STREET}-->"></td></tr>
+     		<tr><td class="normalText" align="right">Street 2:</td>
+        		<td align="left"><input name="street2" type="text" class="FormBoxLarge" value="<!--{STREET2}-->"></td></tr>
+        	<tr><td class="normalText" align="right">City:</td>
+        		<td align="left"><input name="city" type="text" class="FormBox" value="<!--{CITY}-->"></td></tr>
+        	<tr><td class="normalText" align="right">State:</td>
+        		<td align="left"><input name="state" type="text" class="FormBoxXtraSmall" value="<!--{STATE}-->"></td></tr>
+        	<tr><td class="normalText" align="right">Zip:</td>
+        		<td align="left"><input name="zip" type="text" class="FormBoxSmall" value="<!--{ZIP}-->"></td></tr>
+     		<tr><td class="normalText" align="right">Phone:</td>
+        		<td align="left"><input name="phone" type="text" class="FormBox" value="<!--{PHONE}-->"></td></tr>
+        	<tr><td colspan="2" align="center">
+        		<p><input type="submit" value="Edit User" class="FormBoxSmall">&nbsp;&nbsp;&nbsp;
+        		<input type="reset" value="Cancel" class="FormBoxSmall" onclick="javascript: history.go(-1);"></p></td></tr>
+        	<tr><td colspan="2" align="center"><p class="smallText">* Indicates a required field</p></td></tr>
+        </table></form><br></div>

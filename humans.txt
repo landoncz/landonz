@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Landon Zabcik -- Developer, Software Engineer -- http://linkedin.com/in/landonz
+
+# THANKS
+
+    Landon Zabcik
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

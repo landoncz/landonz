@@ -1,0 +1,21 @@
+<!-- BEGIN CONTENT -->
+        <div class="largeText" style="color: #670000;">
+        <strong>TSPay.com File Manager</strong>
+        <br><br>
+        </div>
+        
+        <div style="width: 95%; align: center; text-align: center; border: 1px solid #AEAEAE;">
+        <br><br>
+        <form enctype="multipart/form-data" action="files.php" method="POST">
+        <input type="hidden" name="MAX_FILE_SIZE" value="100000000">
+        <input type="hidden" name="action" value="do_upload">
+        <table align="center" width="70%" border="0" cellpadding="5">
+        <tr><td class="normalText">Choose a file to upload:</td>
+        <td><input name="uploadedfile" type="file" class="FormBoxLarge"> *</td></tr>
+        <tr><td class="normalText">File Name / Description:</td>
+        <td><input name="file_title" type="text" class="FormBoxLarge"></td></tr>
+        <tr><td colspan="2" align="center">
+        	<p><input type="submit" value="Upload File" class="FormBoxSmall">&nbsp;&nbsp;&nbsp;
+        	<input type="reset" value="Cancel" class="FormBoxSmall" onclick="javascript: history.go(-1);"></p></td></tr>
+        <tr><td colspan="2" align="center"><p class="smallText">* Indicates a required field</p></td></tr>
+        </table></form><br></div>

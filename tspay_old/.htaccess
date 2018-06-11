@@ -1,0 +1,4 @@
+RewriteEngine on
+
+#RewriteRule ^$ http://www.holleygrove.com/blank.html [L]
+#RewriteRule ^(.*)$ http://www.holleygrove.com/blank.html [L]

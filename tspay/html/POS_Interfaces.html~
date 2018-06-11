@@ -1,0 +1,453 @@
+<h2 align="center"><strong>OneSource Payments List of Certified Petroleum POS Interfaces</strong></h2>
+<TABLE WIDTH=592 BORDER=1 BORDERCOLOR="#000000" CELLPADDING=7 CELLSPACING=0 STYLE="page-break-before: always" align="center">
+	<COL WIDTH=120>
+	<COL WIDTH=136>
+	<COL WIDTH=99>
+	<COL WIDTH=179>
+	<TR>
+		<TD WIDTH=120 HEIGHT=2>
+			<H1 CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">VENDOR</FONT></H1>
+		</TD>
+		<TD WIDTH=136>
+			<H1 CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">COMMUNICATION</FONT></H1>
+		</TD>
+		<TD WIDTH=99>
+			<H1 CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">ENCRYPTION</FONT></H1>
+		</TD>
+		<TD WIDTH=179>
+			<H1 CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">CARDS
+			ACCEPTED</FONT></H1>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<H1 CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Autogas</FONT></H1>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">VSAT</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">DUKPT</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Voyager, Wright Express, Diners,
+			Generic Proprietary, API, BuyPass Fleet, MasterCard Fleet</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">CCIS<I>tech</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Voyager, Wright Express, Diners, Gift
+			Card</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<H2 CLASS="western"><FONT SIZE=2 STYLE="font-size: 11pt">Datatran</FONT></H2>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, EBT</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<H2 CLASS="western"><FONT SIZE=2 STYLE="font-size: 11pt">DRB</FONT></H2>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express, API </FONT>
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Fiscal
+			Systems-<I>FSI 2000</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, EBT, Voyager, Wright Express,
+			MasterCard Fleet</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Fuel
+			Links-<I>PC2000          </I>(AFP only)</FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">TCP/IP</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">DUKPT</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Gift Card</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Gasboy
+			(Tokheim)-<I>CFN II, CFN III</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">VSAT</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			Fuelman, Gascard, MasterCard Fleet, Generic Proprietary, </FONT>
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt"><B>Gilbarco</B></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt"><B>G-site</B></FONT></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">VSAT</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">DUKPT</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			MasterCard Fleet, BuyPass Fleet, API</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt"><B>Integrated
+			Services-(ISI)</B></FONT></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express, API</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120 HEIGHT=35>
+			<H2 CLASS="western"></H2>
+			<H2 CLASS="western"><FONT SIZE=2 STYLE="font-size: 11pt">Kyrus</FONT></H2>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">VSAT</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Wright Express,</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<H2 CLASS="western"><FONT SIZE=2 STYLE="font-size: 11pt">MicroEnginetics</FONT></H2>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><BR>
+			</P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">MSI
+			(Tokheim)-<I>CVN</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">DUKPT</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			Fuelman, Gascard, MasterCard Fleet, API</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">PetroVend-<I>System
+			2</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Diners, Wright Express, BuyPass Fleet</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">PetroVend-<I>Unity
+			Site Controller</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><BR>
+			</P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, JCB, Voyager, Wright Express,
+			Fuelman, Gascard, MasterCard Fleet</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Pinnacle
+			Corporation-<I>Palm POS</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">TCP/IP</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">DUKPT</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, JCB, Voyager, Wright Express,
+			Fuelman, Gascard, MasterCard Fleet, BuyPass Fleet, Generic
+			Proprietary</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<H2 CLASS="western"><FONT SIZE=2 STYLE="font-size: 11pt">Radiant
+			Systems</FONT></H2>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">VSAT</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			Fuelman, Gascard, MasterCard Fleet, BuyPass Fleet, API, Generic
+			Proprietary, Gift Card</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Retail
+			Systems Group-<I>Latitude</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">DUKPT</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Retalix-<I>StorePoint</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			Fuelman, Gascard, MasterCard Fleet, Generic Proprietary, Gift Card</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Schlumberger
+			(Tokheim)-<I>Pro I and Pro II</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			MasterCard Fleet, BuyPass Fleet, Generic Proprietary</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120 HEIGHT=68>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+			</P>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+			</P>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Tokheim-<I>Columbus</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			MasterCard Fleet, API, BuyPass Fleet</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<H4 CLASS="western">Triversity</H4>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			MasterCard Fleet, BuyPass Fleet, Generic Proprietary</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">VeriFone-<I>Ruby
+			Gemstone</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+			<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">VSAT</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			Fuelman, Gascard, MasterCard Fleet, BuyPass Fleet, Generic
+			Proprietary, Gift Card</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Wayne
+			Dresser-<I>Nucleus</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Multithread</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">DUKPT</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Voyager, Wright Express,
+			MasterCard Fleet, API</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=120>
+			<P CLASS="western" ALIGN=CENTER><B><FONT SIZE=2 STYLE="font-size: 11pt">Wayne
+			Dresser-<I>Plus/3</I></FONT></B></P>
+		</TD>
+		<TD WIDTH=136>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Dial</FONT></P>
+		</TD>
+		<TD WIDTH=99>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">Master
+			Session</FONT></P>
+		</TD>
+		<TD WIDTH=179>
+			<P CLASS="western" ALIGN=CENTER><FONT SIZE=2 STYLE="font-size: 11pt">MasterCard,
+			Visa, AMEX, Discover, Debit, Diners, Wright Express</FONT></P>
+		</TD>
+	</TR>
+</TABLE>

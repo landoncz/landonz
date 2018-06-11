@@ -1,0 +1,184 @@
+		<!--BEGIN CONTENT-->
+        <table width="806" align="center" cellpadding="0" cellspacing="0" border="0">
+          <tr align="right">
+            <td width="592" align="center" valign="top">
+              <div style=
+              "margin-left: 20px; margin-right: 10px; padding-left: 20px; padding-right: 10px;">
+
+                <p class="normalText" style=
+                "text-indent: 20px; text-align:justify; color:#990000;">At OneSource Payments,
+                we know that your c-store or truck stop MUST be able to accept
+                credit, debit, and fleet cards 24/7. We understand your site controllers,
+                credit card terminals, authorization options, and your need for <i><strong>the
+                lowest rates in the industry</strong></i>. We understand that with the ever
+                rising cost of RAC, taxes, and freight, you cannot afford to pay 3% in fees.
+                <a href="contact.php" title="Contact Us" class="normalLink">Contact</a>
+                OneSource Payments today to <i><strong>reduce your fees, and increase your
+                level of service!</strong></i></p>
+
+                <div style=
+                "width: 90%; border: 1px dashed #ACACAC; padding-top: 5px; padding-bottom: 0px; padding-left: 20px; padding-right: 20px; background-color: #EAEAEA;">
+                <p class="largeText" style=
+                "text-indent: 20px; text-align:justify; color:#990000;"><img src=
+                "images/openQuote.gif" alt="">&nbsp; <i>Our experience with the people at
+                OneSource Payments has shown them to be accessible, responsive, and
+                determined to get done what they say they will.</i></p>
+
+                  <div style=
+                  "text-align: right; top: -15px; position: relative; height: 15px;">
+                    <img src="images/closeQuote.gif" alt="">
+                  </div>
+                </div>
+
+                <div class="normalText" align="right" style=
+                "color:#990000; padding-top: 5px;">
+                  <strong>- Tom Manning, CPA, CFO - Save More, Inc.</strong>
+                </div>
+
+                <p align="left" class="largeText"><b>Stellar Customer Service</b></p>
+
+                <p class="normalText" style=
+                "text-indent: 20px; text-align:justify; color:#990000;">OneSource Payments
+                prides itself in delivering un-compromising customer service to its clients.
+                Our agents are personally available for your needs 24-7 <strong>with no 1-800
+                number to call, <i>ever</i></strong>.</p>
+              </div>
+            </td>
+
+            <td width="214" style=
+            "background-image: url('images/tabBottom.jpg'); background-repeat: no-repeat; background-position: top left;"
+            valign="top">
+              <div style="position: relative; height: 245px; text-align: left;">
+                <ul class="captionRedSmall">
+                  <li>Superior Petroleum Industry Expertise</li>
+
+                  <li>Acceptance of ALL card types</li>
+
+                  <li>POS Equipment Sales/Service</li>
+
+                  <li>Detailed, Customized reporting</li>
+
+                  <li>Excellence in Service</li>
+
+                  <li>Datawire and other transaction routing options</li>
+                </ul>
+              </div><br>
+            </td>
+          </tr>
+        </table>
+        <hr width="98%" noshade>
+        <br>
+
+        <table width="98%" cellpadding="0" cellspacing="0" border="0" align="center">
+          <tr>
+            <td valign="top" align="center" width="33%">
+              <p class="largeText"><b>Integrated Interfaces</b></p><br>
+              <img src="images/cardMachine.jpg" alt="Credit Cards">
+            </td>
+
+            <td valign="top" align="center" width="33%">
+              <p class="largeText" align="center"><b>Fleet Card Acceptance</b></p><img src=
+              "images/cStoreCards.jpg" alt="Credit Cards">
+            </td>
+
+            <td valign="top" align="center" width="33%">
+              <p class="largeText" align="center"><b>Latest Communication
+              Options</b></p><img src="images/dataWire.jpg" alt="Wire Micro Node">
+            </td>
+          </tr>
+        </table>
+
+        <table width="90%" align="center" border="0">
+          <tr>
+            <td width="50%" align="left"><strong><a onclick="javascript:Swap();" id=
+            "moreLessText" class="adminMenuLink" name="moreLessText">Read More
+            &gt;&gt;</a></strong></td>
+
+            <td width="50%" align="right"><strong><a onclick="javascript:Swap();" id=
+            "moreLessText2" class="adminMenuLink" name="moreLessText2">Read More
+            &gt;&gt;</a></strong></td>
+          </tr>
+        </table>
+
+        <div id="readMoreDiv" class="invisibleDiv">
+          <table width="98%" cellpadding="2" cellspacing="0" border="0" align="center">
+            <tr>
+              <td valign="top" align="left" width="33%" class="normalText">
+                <p style=
+                "padding-left: 20px; padding: 5px; text-indent: 20px; text-align:justify;">
+                OneSource Payments can process credit, debit, and fleet card transactions
+                on virtually ALL POS systems and site controllers including: <b>VeriFone
+                Ruby</b>, <b>Gilbarco G-site</b>, <b>GasBoy</b>, <b>Autogas</b>,
+                <b>Pinnacle</b>, <b>Radiant</b>, <b>Triversity</b>, <b>Petrovend</b>,
+                <b>Ccistech</b>, <b>Fiscal</b>, <b>Trendar</b>, and all the rest.<br>
+                <br>
+                <b>Hypercom</b>, <b>VeriFone</b>, <b>Lipman/Nurit</b>, <b>Dassault</b>,
+                <b>Linkpoint</b>, and other terminals are all supported as well!</p>
+              </td>
+
+              <td valign="top" align="left" width="33%" class="normalText">
+                <p style=
+                "padding-left: 20px; padding: 5px; text-indent: 20px; text-align:justify;">
+                OneSource Payments knows that fleet card acceptance means repeat commercial
+                business. <b>Wright Express</b>, <b>Voyager</b>, and <b>Fuelman</b> are the
+                three largest fleet card issuers, and for truck stops, acceptance of EFS
+                Fleet, Comdata, TransPlatinum, and others is crucial. Anywhere you accept
+                cards in your c-store or truck stop, from the pumps to the fast-food counter,
+                OneSource Payments has THE solution.</p>
+              </td>
+
+              <td valign="top" align="left" width="33%" class="normalText">
+                <p style=
+                "padding-left: 20px; padding: 5px; text-indent: 20px; text-align:justify;">Are
+                you still using satellite or dial-up to process card-based transactions?
+                There’s a much better way!OneSource Payments is bringing all of its
+                merchants industry changing technology with <b>DataWire</b>. Replace your
+                costly satellite with a <b>Datawire MicroNode</b>, routing your transactions
+                over the internet and COMPLETELY ELIMINATING ANY recurring monthly satellite
+                expense!</p>
+              </td>
+            </tr>
+          </table><br>
+
+          <table width="96%" cellpadding="0" cellspacing="0" border="0" align="center">
+            <tr>
+              <td width="48%" class="normalText" style=
+              "background-image: url(images/grayFade.jpg); background-repeat: no-repeat; background-position: top right; padding-top: 5px;">
+              <p align="center"><b>Setup &amp; Service</b></p>
+
+                <ul class="smallText" style="text-align:left; color:#990000;">
+                  <li>Whether a VeriFone Ruby, Trendar, Fiscal System, or a simple Hypercom
+                  credit card machine, setup is a breeze.</li>
+
+                  <li>OneSource Payments does not charge any upfront setup or service
+                  intialization fees.</li>
+
+                  <li>You will find our service to be second to none as we are always
+                  available to you, 24/7.</li>
+                </ul>
+              </td>
+
+              <td width="4%">&nbsp;</td>
+
+              <td width="48%" class="normalText" style=
+              "background-image: url(images/grayFade.jpg); background-repeat: no-repeat; background-position: top right; padding-top: 5px;">
+              <p align="center"><b>Data Wire</b></p>
+
+                <ul class="smallText" style="text-align:left; color:#990000;">
+                  <li>Reduce your average authorization time to 2-3 seconds</li>
+
+                  <li>Eliminate ALL satellite costs, no monthly fees</li>
+
+                  <li>More reliable service with dial back up capabilities</li>
+
+                  <li>Continue to accept all card types: Visa, MasterCard, Amex, Discover,
+                  Debit, Wright Express, Voyager, Fuelman and more</li>
+
+                  <li>Works with your existing site controller; Ruby, G-site, Fis-cal, and
+                  more!</li>
+                </ul>
+              </td>
+            </tr>
+          </table><br>
+        </div>
+        <!-- END CONTENT -->

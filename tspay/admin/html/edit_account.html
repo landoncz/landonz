@@ -1,0 +1,23 @@
+		<!-- BEGIN CONTENT -->
+        <div class="largeText" style="color: #670000;">
+        <strong>TSPay.com Account Preferences for <!--{EMAIL}--></strong>
+        <br><br>
+        <!--{MESSAGE}-->
+        <br>
+        </div>
+        
+        <div style="width: 95%; align: center; text-align: center; border: 1px solid #AEAEAE;">
+        <br><br>
+        <form action="edit_account.php" method="POST">
+        	<table align="center" width="70%" border="0" cellpadding="5">
+        	<tr><td class="normalText" align="right">New Password:</td>
+        		<td align="left"><input name="password" type="password" class="FormBox"> *</td></tr>
+        	<tr><td class="normalText" align="right">New Password Confirm:</td>
+        		<td align="left"><input name="passwordConfirm" type="password" class="FormBox"> *</td></tr>
+        	<tr><td colspan="2" align="center">
+        		<p>
+        		<input type="hidden" name="action" value="do_edit">
+        		<input type="submit" value="Update" class="FormBoxSmall">&nbsp;&nbsp;&nbsp;
+        		<input type="reset" value="Cancel" class="FormBoxSmall" onclick="javascript: history.go(-1);"></p></td></tr>
+        	<tr><td colspan="2" align="center"><p class="smallText">* Indicates a required field</p></td></tr>
+        </table></form><br></div>

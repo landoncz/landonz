@@ -1,0 +1,26 @@
+<!-- BEGIN CONTENT -->
+        <div class="largeText" style="color: #670000;">
+        <strong>TSPay.com Document Manager</strong>
+        <br><br>
+        </div>
+        
+        <div style="width: 95%; align: center; text-align: center; border: 1px solid #AEAEAE;">
+        <br><br>
+        <form enctype="multipart/form-data" action="documents.php" method="POST">
+        <input type="hidden" name="MAX_FILE_SIZE" value="10000000">
+        <input type="hidden" name="action" value="do_upload">
+        <table align="center" width="70%" border="0" cellpadding="5">
+        <tr><td class="normalText">Choose a document to upload:</td>
+        <td><input name="uploadedfile" type="file" class="FormBoxLarge"> *</td></tr>
+        <tr><td class="normalText">Document Name / Description:</td>
+        <td><input name="doc_title" type="text" class="FormBoxLarge"></td></tr>
+        <tr><td class="normalText">Category:</td>
+        <td>
+        		<select name="category" class="FormBoxLarge">
+        		<!--{CATEGORY_OPTIONS}-->
+        		</select></td></tr>
+        <tr><td colspan="2" align="center">
+        	<p><input type="submit" value="Upload File" class="FormBoxSmall">&nbsp;&nbsp;&nbsp;
+        	<input type="reset" value="Cancel" class="FormBoxSmall" onclick="javascript: history.go(-1);"></p></td></tr>
+        <tr><td colspan="2" align="center"><p class="smallText">* Indicates a required field</p></td></tr>
+        </table></form><br></div>

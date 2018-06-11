@@ -1,0 +1,832 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="alternate" type="application/rss+xml" title="Cure for Chris RSS Feed" href="feed" />
+<link rel="pingback" href="xmlrpc.php" />
+<link rel="stylesheet" href="wp-content/themes/simple-blog-design.1.0/simple-blog-design/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="wp-content/themes/simple-blog-design.1.0/simple-blog-design/css/print.css" type="text/css" media="print" />
+<!--[if IE]><link rel="stylesheet" href="http://cureforchris.com/wp-content/themes/simple-blog-design.1.0/simple-blog-design/css/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<script type='text/javascript' src='wp-includes/js/prototype.js?ver=1.6'></script>
+<script type='text/javascript' src='wp-includes/js/scriptaculous/wp-scriptaculous.js?ver=1.8.0'></script>
+<script type='text/javascript' src='wp-includes/js/scriptaculous/effects.js?ver=1.8.0'></script>
+<script type='text/javascript' src='wp-content/plugins/lightbox-2/lightbox.js?ver=2.2'></script>
+<meta name="generator" content="WordPress 2.7.1" />
+
+
+<!-- all in one seo pack 1.4.9 [-1,-1] -->
+<meta name="description" content="I love hearing from everyone because it really picks my spirits up. If you have a few minutes please sign my guestbook." />
+<link rel="canonical" href="guestbook" />
+<!-- /all in one seo pack -->
+<meta name='DMSGuestbook' content='1.12.1' />
+<link rel="stylesheet" href="wp-content/plugins/dmsguestbook/dmsguestbook.css" type="text/css" media="screen" />
+	<!-- begin lightbox scripts -->
+	<script type="text/javascript">
+    //<![CDATA[
+    document.write('<link rel="stylesheet" href="wp-content/plugins/lightbox-2/Themes/Black/lightbox.css" type="text/css" media="screen" />');
+    //]]>
+    </script>
+	<!-- end lightbox scripts -->
+
+<title>    Guestbook - Cure for Chris</title>
+</head>
+
+<body>
+
+
+<div class="container2">
+
+<div id="header">
+
+<div class="topline">
+<ul class="menu">
+    <li class="page_item page_item_1 "><a href="index.html" title="Home">Home</a></li>
+	<li class="page_item page-item-2"><a href="about" title="Journal">Journal</a></li>
+<li class="page_item page-item-3"><a href="image-gallery" title="Image Gallery">Image Gallery</a></li>
+<li class="page_item page-item-8"><a href="treatments" title="Treatments">Treatments</a></li>
+<li class="page_item page-item-10"><a href="donate" title="Donate">Donate</a></li>
+<li class="page_item page-item-14 current_page_item"><a href="guestbook" title="Guestbook">Guestbook</a></li>
+<li class="page_item page-item-206"><a href="remission" title="Remission">Remission</a></li>
+</ul>
+</div>
+
+<div class="container">
+
+<div id="headline">
+<h1>Cure for Chris</h1>
+&#8220;Without a challenge there can be no victory.&#8221;</div>
+
+<div class="subs">
+	<a href="feed">Subscribe to RSS</a>
+
+
+<div id="searchform">
+    <form method="get" action="http://cureforchris.com/index.php">
+      <input type="text" name="s" id="s" value="Type and hit Enter to Search" onfocus="if (this.value == 'Type and hit Enter to Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Type and hit Enter to Search';}" />
+    </form>
+  </div>
+
+</div>
+
+
+</div>
+
+</div><!-- end #header -->
+
+<div class="clear"></div>
+<div class="container">
+
+<div id="leftcolumn">
+<div id="leftcolumn_top"></div>
+
+
+	
+	<div class="post" id="post-14">
+		<div class="title">
+    		<h2>Guestbook</h2>
+		</div>
+		<div class="entry">
+			<p>I love hearing from everyone because it really picks my spirits up. If you have a few minutes please sign my guestbook.</p>
+<div class='css_guestbook_position'><div class='css_guestbook_font_color'><div class='css_form_embedded'>
+				<!-- define the space on top of the form -->
+				<div class='css_form_textfieldspace'></div>
+
+				<!-- error & succes messages -->
+				<div class='css_form_errormessage'></div>
+				<div class='css_form_errormessage'></div>
+				<div class='css_form_errormessage'></div>
+				<div class='css_form_errormessage'></div>
+				<div class='css_form_errormessage'></div>
+				<div class='css_form_errormessage'></div>
+				<div class='css_form_successmessage'></div>
+				<br />
+				<form action="guestbook" method="post">
+				<!-- name field -->
+				<div class='css_form_textfieldspace'>
+				<input class='css_form_namefield' type='text' name='gbname' value='' maxlength='50' />
+				<b class='css_form_text'>&nbsp;Name *</b></div>
+
+				<!-- email field -->
+				<div class='css_form_textfieldspace'>
+				<input class='css_form_emailfield' type='text' name='gbemail' value='' />
+				<b class='css_form_text'>&nbsp;Email </b></div>
+				
+				<!-- url field -->
+				<div class='css_form_textfieldspace'>
+				<input class='css_form_urlfield' type='text' name='gburl' value='' />
+				<b class='css_form_text'>&nbsp;Website </b></div>
+
+				<!-- message field -->
+				<div class='css_form_textfieldspace'>
+				<textarea class='css_form_messagefield' name='gbmsg' rows='0' cols='0'></textarea>
+				<b class='css_form_text'>&nbsp;Text *</b></div>
+
+				<!-- require text and the requirement char -->
+				<div style='text-align:left;'><b class='css_form_text'>* Mandatory</b></div>
+				<br />
+				
+				<!-- visual captcha if selected -->
+				<div class='css_form_antispamtext'><b>Antispam measures</b><br />Please insert the letter and number combination into the text field before submitting the guestbook entry.</div>
+				<div class='css_form_antispamcontent_position'>
+				<img class='css_form_antispamcontent' src='wp-content/plugins/dmsguestbook/captcha/captcha.php?seed=1239059056&amp;var_captcha_color=000000' alt='captcha' /></div>
+				<div class='css_form_antispamcontent_position'>
+				<input class='css_form_antispam_inputfield' type='text' name='securecode' /></div>
+				
+				<!-- submit button -->
+				<div class='css_form_submit_position'><input class='css_form_submit' type='submit' value='Inscribe' /></div>
+				<input type='hidden' name='newentry' value='1' />
+	<input type='hidden' name='Itemid' value='' />
+	<input type='hidden' name='antispam_hash_key' value='72fd078e863f3af7cfec0bc6adc86b88' />
+	</form>
+				<!-- define space after the submit button -->
+				<p style='padding:10px 0px 0px 0px;'></p>
+				</div>
+				<!-- define space between form and navigation -->
+				<div style='padding:30px 0px 0px 0px;'></div>
+					<div class="css_navigation_totalcount">(281)</div>
+	<div class="css_navigation_overview">
+<a class='css_navigation_notselect' href='guestbook?from=0&amp;select=1'>1</a> <a class='css_navigation_notselect' href='guestbook?from=20&amp;select=2'>2</a> <a class='css_navigation_notselect' href='guestbook?from=40&amp;select=3'>3</a> <a class='css_navigation_notselect' href='guestbook?from=60&amp;select=4'>4</a> <a class='css_navigation_select' href='guestbook?from=80&amp;select=5'>5</a> <a class='css_navigation_notselect' href='guestbook?from=100&amp;select=6'>6</a> <a class='css_navigation_notselect' href='guestbook?from=120&amp;select=7'>7</a> <a class='css_navigation_notselect' href='guestbook?from=140&amp;select=8'>8</a> <a class='css_navigation_notselect' href='guestbook?from=160&amp;select=9'>9</a> <a class='css_navigation_notselect' href='guestbook?from=180&amp;select=10'>10</a> <a class='css_navigation_notselect' href='guestbook?from=200&amp;select=11'>11</a> <a class='css_navigation_notselect' href='guestbook?from=220&amp;select=12'>12</a> <a class='css_navigation_notselect' href='guestbook?from=240&amp;select=13'>13</a> <a class='css_navigation_notselect' href='guestbook?from=260&amp;select=14'>14</a> <a class='css_navigation_notselect' href='guestbook?from=280&amp;select=15'>15</a> </div><div class='css_navigation_char_position'><a class='css_navigation_char'  href='guestbook?from=60&amp;select=4'><</a> <a class='css_navigation_char'  href='guestbook?from=100&amp;select=6'>></a></div><div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(201) James<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Tue, 17 February 2009 09:58:10 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#106;&#106;&#112;&#105;&#108;&#107;&#105;&#110;&#103;&#116;&#111;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Chris, <br />  <br /> Hey hope all is going well and your keeping focused on that remission.  You and Amy are in our prayers and thoughts everyday.  Talk with you soon brother. <br />  <br /> James</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(200) Jennifer Cleveland<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Mon, 16 February 2009 17:33:20 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#106;&#99;&#108;&#101;&#118;&#101;&#108;&#97;&#110;&#100;&#55;&#54;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Dear Amy &#38; Chris, <br />  <br /> I just wanted to let you guys know that I'm thinking about you both. And you are constantly in my prayers, every sunday at my church we pray for you, your strenth and healings. Even though you guys don't know anyone at my church, they already think of you guys as family.I have know idea what you go through on a daily basis much less an hourly basis, but I just want the both of you to know that you are very much loved not only from family and friends, but also at Brentful Gosspel Church. I'm trying to get some fundraising going, they had a funraiser at seville for a family last month that I found out about through a friend. She gave me the lady's name which is Pam that handles things like that. I tried to do it through UWF, but unfortunatley its only for St. Judes. I just really want to do something to help you guys out. Let people see what a battle you are fighting, and what an amazing family they would be  helping. Keep your head up, the both of you are so amazing.  <br />  <br /> Love always, <br /> Jennifer Cleveland</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(199) Kenzi<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Mon, 16 February 2009 10:43:30 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#107;&#101;&#110;&#122;&#105;&#46;&#116;&#97;&#105;&#110;&#111;&#119;&#64;&#116;&#117;&#114;&#110;&#101;&#114;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Thinking about your family in this difficult time.  Robert Tharpe has been keeping me updated.  We are all praying for you.</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(198) Monica Trevino<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Mon, 16 February 2009 10:32:27 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#109;&#111;&#110;&#116;&#114;&#101;&#118;&#105;&#110;&#111;&#64;&#121;&#97;&#104;&#111;&#111;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Hi Chris, <br />  <br /> Robert Tharpe shared your link with me.  I work with him in Atlanta at CNN.  Just want to let you know that you are in my prayers.  Don't give up and stay positive!!!! </div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(197) Deanie Sexton<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sun, 15 February 2009 22:47:53 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'><a href='&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#100;&#101;&#97;&#110;&#105;&#101;&#115;&#101;&#120;&#116;&#111;&#110;&#112;&#104;&#111;&#116;&#111;&#103;&#114;&#97;&#112;&#104;&#121;&#46;&#99;&#111;&#109;' rel='nofollow' target='_blank'><img class='css_post_url_image' src='wp-content/plugins/dmsguestbook/img/website.gif' alt='url' /></a>&nbsp;</td>
+					<td class='css_post_header3'><a href='mailto:&#100;&#101;&#97;&#110;&#105;&#101;&#115;&#101;&#120;&#116;&#111;&#110;&#64;&#99;&#111;&#120;&#46;&#110;&#101;&#116;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>I am reading your post from Feb.1st and I am hoping that all is going as well as you finished your post with. I am thinking about you everyday. I will keep checking for an update and hoping for the very best!!  All my love and hope to you both!!! <br />  <br /> Love Deanie Sexton</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(196) Christopher Yarber<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sun, 15 February 2009 14:34:41 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'><a href='&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#99;&#97;&#114;&#105;&#110;&#103;&#98;&#114;&#105;&#100;&#103;&#101;&#46;&#111;&#114;&#103;&#47;&#118;&#105;&#115;&#105;&#116;&#47;&#99;&#104;&#114;&#105;&#115;&#121;&#97;&#114;&#98;&#101;&#114;' rel='nofollow' target='_blank'><img class='css_post_url_image' src='wp-content/plugins/dmsguestbook/img/website.gif' alt='url' /></a>&nbsp;</td>
+					<td class='css_post_header3'><a href='mailto:&#104;&#121;&#112;&#101;&#114;&#99;&#118;&#97;&#100;&#49;&#57;&#56;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Chris,  <br />  <br /> I just wanted to send you a quick word of encouragement. I myself am a survivor of Burkitts, and found your website through my wife, Jennifer(a friend of Robbie's). Hang tough there, and don't ever get discouraged! To Amy - your support, strength and dedication to Chris is an important anchor for him. I'm sure he's probably mentioned it, but that is a huge comfort to have during the ordeal you guys are going through. I hope you guys are doing well, and let us know if you need ANYTHING.  <br />  <br /> Regards,  <br />  <br /> Christopher Yarber</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(195) Jennifer Yarber<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sun, 15 February 2009 14:22:36 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#106;&#101;&#110;&#110;&#105;&#102;&#101;&#114;&#46;&#121;&#97;&#114;&#98;&#101;&#114;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Hi Chris, <br />  <br /> I've been reading your blog for awhile now, and just introduced it to my husband today - his name is also Chris and he is also a Burkitt's survivor. Your lovely wife Amy contacted me through Robbie a few months ago. Robbie helped me through our own experience with Burkitt's. I just wanted to drop a line and tell you to keep fighting the good fight; we're reading your blog daily and keeping you two in our prayers. <img src='wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> <br />  <br /> Jen</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(194) Melissa Wood<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Thu, 12 February 2009 23:26:31 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#99;&#97;&#114;&#101;&#121;&#106;&#114;&#51;&#64;&#99;&#111;&#120;&#46;&#110;&#101;&#116;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Hello Chris and Amy,  I just read your most recent update.  I am so glad to hear that you have found this new treatment and I am praying for it to be the one! <br /> God bless you both.</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(193) Traci Diggs<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Tue, 10 February 2009 08:13:36 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'><a href='&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#116;&#114;&#97;&#99;&#105;&#100;&#105;&#103;&#103;&#115;&#46;&#98;&#108;&#111;&#103;&#115;&#112;&#111;&#116;&#46;&#99;&#111;&#109;' rel='nofollow' target='_blank'><img class='css_post_url_image' src='wp-content/plugins/dmsguestbook/img/website.gif' alt='url' /></a>&nbsp;</td>
+					<td class='css_post_header3'><a href='mailto:&#116;&#108;&#100;&#105;&#103;&#103;&#115;&#95;&#50;&#48;&#48;&#48;&#64;&#121;&#97;&#104;&#111;&#111;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Hi Chris. <br /> You don't know me but I am a friend of Robbie. We became friends through a mutual friend of ours that works at CNN and because we were both recently diagnosed with cancer. I was first diagnosed with breast cancer in 2004 and then it came back in 2008. I just finished chemo in December and am now taking things one day at a time. I left my blog if you would like to check it out! <br />  <br /> I just wanted to tell you that after reading your story, I am so amazed by your strength and courage. It makes a world of difference when you have wonderful caring doctors and nurses at your side - I don't think I could have gotten through my tests, chemo, and radiation without them. I too admire your wife - what a wonderful person to have at your side! I found that what helped me the most was having supportive family and friends at my side. Although so many people reached out to me, there were only a couple that really helped me through the darkest days. They would tell me, "You'll get through this, Don't give up, It's okay to be sad, Hold on to your faith, and that " <br /> Everything was going to be alright." So that's what I would like to leave with you.  <br />  <br /> I will be praying for you, Chris and for your continued strenght. You're going to get through this! Remember to be good to yourself and enjoy those things that make you happiest - sometimes we forget to do that! May God continue to bless and keep you always. <br />  <br /> Traci <br /> </div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(192) Erin Rynne<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Mon,  9 February 2009 12:45:12 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>I don't know if you remember me, but Audrey and I were best friends in middle school.  She just filled me in on everything you have been going through.  You will be in my thoughts.  Keep fighting.  Love you!! <br />  <br /> Erin</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(191) Nancy LaNasa<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sat,  7 February 2009 06:35:48 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#110;&#97;&#103;&#97;&#108;&#97;&#110;&#100;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>I hope you BOTH feel all the loving arms that are wrapped around you right now, from near and far. <br />  <br /> xoxo nancy</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(190) Renee Hockaday<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Thu,  5 February 2009 12:46:00 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#114;&#119;&#104;&#111;&#99;&#107;&#97;&#100;&#97;&#121;&#64;&#99;&#111;&#109;&#99;&#97;&#115;&#116;&#46;&#110;&#101;&#116;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Chris - <br />  <br /> Audrey shared that she made a trek to FL/TX to be with you and Amy. I think of you every day and pray for your CURE!!!! I'm still training for the Shamrock 1/2 marathon in your honor on March 22. Freezing cold temps and icy/snowy trails are nothing compared to your battle. I'll do it all again if it helps you find a cure!!! <br />  <br /> http://pages.teamintraining.org/nca/shamrock09/rhockaday <br />  <br /> Renee <br /> </div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(189) sara phelan<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Tue,  3 February 2009 21:56:08 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#115;&#97;&#114;&#97;&#112;&#104;&#101;&#108;&#97;&#110;&#64;&#99;&#111;&#120;&#46;&#110;&#101;&#116;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>hello dear chris and amy, its no wonder that you've been on my mind moreso than usual the last few days...i just read your post...you're always in my heart and prayers, and i hope these next few days will bring nothing but good news...much love to you both always, xoxo</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(188) Bubba Nurse<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sun,  1 February 2009 20:51:34 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#99;&#111;&#119;&#103;&#105;&#114;&#108;&#110;&#117;&#114;&#115;&#101;&#64;&#121;&#97;&#104;&#111;&#111;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Hey! Wow, so much has happened since I ran into you in the cafeteria at Sacred. Sorry I missed seein you Amy...Life is good when you have something positive workin in your favor...I love you guys and pray that a miracle will happen soon!</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(187) Steven Gray<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sun,  1 February 2009 15:36:05 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'><a href='&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#103;&#111;&#111;&#100;&#102;&#97;&#105;&#116;&#104;&#104;&#111;&#109;&#101;&#111;&#112;&#116;&#105;&#111;&#110;&#115;&#46;&#99;&#111;&#109;' rel='nofollow' target='_blank'><img class='css_post_url_image' src='wp-content/plugins/dmsguestbook/img/website.gif' alt='url' /></a>&nbsp;</td>
+					<td class='css_post_header3'><a href='mailto:&#103;&#114;&#97;&#121;&#103;&#111;&#111;&#100;&#102;&#97;&#105;&#116;&#104;&#64;&#121;&#97;&#104;&#111;&#111;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Brotha Mang! All the best at MD Anderson this week. This IS the cure for you. I love you buddy and can't wait to see you again, fully recovered! <br />  <br /> “You are God in a physical body. You are Spirit in the flesh… You are a cosmic being… You are all wisdom… You are perfection. You are magnificent. You are the creator… You are God manifested in human form, made to perfection.”</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(186) Jasmine Belcher<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sun,  1 February 2009 08:56:10 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#106;&#97;&#115;&#109;&#105;&#110;&#101;&#95;&#110;&#111;&#114;&#114;&#105;&#115;&#64;&#121;&#97;&#104;&#111;&#111;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>I know this is the answer! I'm so excited for you. I will keep you in my prayers and take time out every day to visualize the cure coming NOW! With everyone's positivity and no doubts, it will happen. I love you both and will see you soon!!!</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(185) Melissa<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sun,  1 February 2009 08:45:23 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>I really appreciate your updates. If there is any thing I can do for you guys, just let me know. I am always praying for you and sending you energy. I love you guys!  <br />  <br /> XOXO: Melissa</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(184) Jennifer Thompson<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sun,  1 February 2009 07:57:10 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#115;&#104;&#111;&#114;&#116;&#121;&#98;&#54;&#53;&#64;&#97;&#111;&#108;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Hi Chris, wow, I am in amazement at your story.  I have known Amy for 15 years; we are former co-workers.  I love her dearly and even though I don't see her much anymore, I think of her often.  That thought prompted me to email her yesterday, and she when she responded she included your link.  You and Amy are in my thoughts and prayers as you continue on this unbelieveable journey.  My family fought cancer with my younger sister, so I understand the toll this takes on you.  I am here (in Pensacola) to support you both in any way that I can.  Much love, Jennifer Thompson</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(183) Brent Hutfless<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Sat, 31 January 2009 17:34:22 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#53;&#54;&#115;&#97;&#118;&#111;&#121;&#64;&#99;&#111;&#120;&#46;&#110;&#101;&#116;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>This site is an amazing chronicle, and one which I could never have guessed at when I last saw Chris at Home Depot a year ago. I cannot think of anyone who deserved this less, but there are few who are more capable to overcome the hurdles and make it back to good health. Chris, you're an amazing person and have more drive and ambition than almost anyone I've ever met. I cannot imagine what you are going through, but I have no doubt that you and Amy will get through it. Your perseverance, optimism and caring for each other is truly inspiring - I could only hope to have such courage. I hope you achieve the breakthrough you wish for and can return to your goals and dreams soon.</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_post_embedded'>
+		<div>
+			<table style='margin:0px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+				<tr>
+					<!-- id, name, url & email -->
+					<td class='css_post_header1'>(182) James Pilkington<br />
+					<!-- date & ip -->
+					<div class='css_post_header4'>Fri, 30 January 2009 13:00:10 -0700  </div></td>
+					<td style='width:1px;'></td>
+					<!-- url & email -->
+					<td class='css_post_header2'></td>
+					<td class='css_post_header3'><a href='mailto:&#106;&#106;&#112;&#105;&#108;&#107;&#105;&#110;&#103;&#116;&#111;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'><img class='css_post_email_image' src='wp-content/plugins/dmsguestbook/img/email.gif' alt='email' /></a></td>
+				</tr>
+			</table>
+			<!-- separator -->
+			<hr class='css_post_separator' />
+		</div>
+		<!-- message -->
+		<div class='css_post_message'>Chris, <br />  <br /> Hey man hang in there.  I heard you got frustrated and we home to Pensacola but are on the way back to Houston.  I am praying this clinical trial is what you need to get to the stem cell process.  You and Amy are in our prayers.  If you need to talk or vent man give me a call.</div>
+		</div>
+		<!-- space between each guestbook post -->
+		<table style='margin:0px 0px 20px 0px; padding:0px 0px; border:1px; width:100%;' cellspacing='0' cellpadding='0' border='0'>
+			<tr>
+			<td></td>
+			</tr>
+		</table>
+		<div class='css_navigation_char_position'><a class='css_navigation_char'  href='guestbook?from=60&amp;select=4'><</a> <a class='css_navigation_char'  href='guestbook?from=100&amp;select=6'>></a></div>	</div>
+
+
+
+
+
+</div>		</div><!-- end .entry -->
+	</div><!-- end .post -->
+
+	
+	
+    <div class="clear"></div>
+<div id="leftcolumn_bot"></div>
+</div><!-- end #leftcolumn -->
+
+
+<div id="rightcolumn">
+
+<ul class="sidebar">
+
+<li id="calendar" class="widget widget_calendar"><h2>&nbsp;</h2><div id="calendar_wrap"><table id="wp-calendar" summary="Calendar">
+	<caption>April 2009</caption>
+	<thead>
+	<tr>
+		<th abbr="Monday" scope="col" title="Monday">M</th>
+		<th abbr="Tuesday" scope="col" title="Tuesday">T</th>
+		<th abbr="Wednesday" scope="col" title="Wednesday">W</th>
+		<th abbr="Thursday" scope="col" title="Thursday">T</th>
+		<th abbr="Friday" scope="col" title="Friday">F</th>
+		<th abbr="Saturday" scope="col" title="Saturday">S</th>
+		<th abbr="Sunday" scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td abbr="October" colspan="3" id="prev"><a href="archives/date/2008/10" title="View posts for October 2008">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td id="today">6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
+	</tr>
+	<tr>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+	</tr>
+	<tr>
+		<td>27</td><td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li><li id="archives" class="widget widget_archive"><h2>Archives</h2>		<ul>
+			<li><a href='archives/date/2008/10' title='October 2008'>October 2008</a></li>
+		</ul>
+</li>		<li id="recent-posts" class="widget widget_recent_entries">			<h2>Recent Posts</h2>			<ul>
+						<li><a href="archives/1">My Story </a></li>
+						</ul>
+		</li>		<li id="meta" class="widget widget_meta">			<h2>Meta</h2>			<ul>
+						<li><a href="wp-login.php">Log in</a></li>
+			<li><a href="feed" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="comments/feed" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+		</li>  </ul>
+  <!-- end #sidebar -->
+  
+</div>
+<!-- end #rightcolumn -->
+
+
+<div class="sidebar_left">
+
+<ul class="sidebar">
+
+
+    <li class="widget">
+    <h2>Categories</h2>
+		<ul>
+				<li class="cat-item cat-item-1"><a href="archives/category/uncategorized" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+		</ul>
+    </li>
+    
+    <li class="widget">
+    <h2>Calendar</h2>
+	    <ul id="calendar_wrap">
+			<li><table id="wp-calendar" summary="Calendar">
+	<caption>April 2009</caption>
+	<thead>
+	<tr>
+		<th abbr="Monday" scope="col" title="Monday">M</th>
+		<th abbr="Tuesday" scope="col" title="Tuesday">T</th>
+		<th abbr="Wednesday" scope="col" title="Wednesday">W</th>
+		<th abbr="Thursday" scope="col" title="Thursday">T</th>
+		<th abbr="Friday" scope="col" title="Friday">F</th>
+		<th abbr="Saturday" scope="col" title="Saturday">S</th>
+		<th abbr="Sunday" scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td abbr="October" colspan="3" id="prev"><a href="archives/date/2008/10" title="View posts for October 2008">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td id="today">6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
+	</tr>
+	<tr>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+	</tr>
+	<tr>
+		<td>27</td><td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></li>
+		</ul>
+	</li>
+    
+      </ul>
+
+</div><div class="clear"></div>
+</div>
+<div id="footer">
+  <div class="container">
+  
+  <div class="copyright">&copy;2008 Cure for Chris | Design: <a href="http://blogdesignstudio.com/" target="_blank">Blog Design</a> Studio</div>
+
+  <div class="clear"></div>
+
+    <div class="credits"><p>The best things in life are free. One of them is</p> <a href="http://wordpress.org/" target="_blank" class="wordpress">ordpress</a></div>
+
+  </div>
+  <div class="clear"></div>
+  <!-- end .container -->
+</div>
+<!-- end #footer -->
+</div>
+</body></html>

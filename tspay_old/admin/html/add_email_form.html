@@ -1,0 +1,29 @@
+		  <!-- BEGIN CONTENT -->
+        <div class="largeText" style="color: #670000;">
+        <strong>TS Pay.com HG News Mailer Portal</strong>
+        <br><br>
+        <!--{MESSAGE}-->
+        <p class="normalText" style="padding: 20px;" align="center">
+        To add a new email, paste your email html code in the form below. 
+        You will be able to preview your email on the next page.</p>
+			<form action="mailer.php" method="POST">
+			<input type="hidden" name="action" value="preview_first">
+				<table border="0" cellpadding="5" align="center" width="95%">
+				<tr>
+					<td width='100' class='normalText'><strong>Subject:</strong></td>
+					<td><input type="text" name="subject" size="60" maxlength="150" class="FormBoxLarge"></td>
+				</tr>
+				<tr>
+					<td class='normalText'><strong>Email body:</strong></td>
+					<td><textarea name="body" style="width: 100%; height: 450px;"></textarea></td></tr>			
+				</tr>
+				<tr>
+					<td class='normalText'><strong>HTML body:</strong></td>
+					<td><textarea name="htmlBody" style="width: 100%; height: 450px;"></textarea></td></tr>
+				<tr><td colspan='2' align='center'><br><input type="submit" value="Preview Email" class="FormBox">&nbsp;&nbsp;&nbsp;
+					<input type="reset" value="Cancel" onclick="javascript: history.go(-1);" class="FormBox"></td>
+				</tr>
+			</table>
+			<br>
+        </div>
+        <!-- END CONTENT -->        

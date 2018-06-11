@@ -1,0 +1,62 @@
+		<!-- BEGIN CONTENT -->
+		<div style="padding-left: 50px; padding-right: 50px;">
+		<p align="left">
+		<a href="index.php" class="adminMenuLink">Agent Home</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="edit_account.php" class="adminMenuLink">My Account Options</a>
+		</p></div>
+        <div class="largeText" style="color: #670000;">
+        <strong>TSPay.com Account Preferences for <!--{EMAIL}--></strong>
+        <br>
+        <!--{HG_MESSAGE}-->
+        <br>
+        </div>
+        
+        <div class="normalText" style="color: #670000;">
+        <strong>Your Account Password:</strong>
+        </div>
+        
+        <div style="width: 500px; align: center; text-align: center; border: 1px solid #AEAEAE;
+        padding-left: 20px;">
+        <p class="normalText" align="left" style="text-indent: 20px;">If you'd like to change your TSPay.com account password,
+        please fill out the information in the form below.</p>
+        <form action="edit_account.php" method="POST">
+        	<table align="center" width="70%" border="0" cellpadding="5">
+        	<tr><td class="normalText" align="right">New Password:</td>
+        		<td align="left"><input name="password" type="password" class="FormBox"> *</td></tr>
+        	<tr><td class="normalText" align="right">Confirm New Password:</td>
+        		<td align="left"><input name="passwordConfirm" type="password" class="FormBox"> *</td></tr>
+        	<tr><td colspan="2" align="center">
+        		<p>
+        		<input type="hidden" name="action" value="updatePassword">
+        		<input type="submit" value="Update" class="FormBoxSmall">&nbsp;&nbsp;&nbsp;
+        		<input type="reset" value="Cancel" class="FormBoxSmall" onclick="javascript: history.go(-1);"></p></td></tr>
+        </table></form></div><br>
+        
+        <div class="normalText" style="color: #670000;">
+        <strong>Mailing List:</strong>
+        </div>
+        
+        <div style="width: 500px; align: center; text-align: center; border: 1px solid #AEAEAE;
+        padding-left: 20px;">
+        <p class="normalText" align="left" style="text-indent: 20px;">Please use the form below to subscribe / unsubscribe from our mailing list.<br>
+        Please note that Transaction Solutions does not share your email address with anyone.
+        If you're a subscriber to our mailing list, 
+        from time to time we'll send you news and information that we believe might be 
+        beneficial to you.</p>
+        <form action="edit_account.php" method="POST">
+        	<table align="center" width="90%" border="0" cellpadding="5">
+        	<tr><td class="normalText" align="right">Would you like to receive emails from TSPay.com?</td>
+        		<td align="left">
+        		<select name="sendOffers" class="FormBoxSmall">
+        			<option value="1" selected>Yes</option>
+        			<option value="0">No</option>
+        		</select>
+        		</td>
+        	</tr>
+        	<tr><td colspan="2" align="center">
+        		<p>
+        		<input type="hidden" name="action" value="updateOffers">
+        		<input type="submit" value="Update" class="FormBoxSmall">&nbsp;&nbsp;&nbsp;
+        		<input type="reset" value="Cancel" class="FormBoxSmall" onclick="javascript: history.go(-1);"></p></td></tr>
+        </table></form></div><br>

@@ -1,0 +1,42 @@
+		  <!-- BEGIN CONTENT -->
+        <div class="largeText" style="color: #670000;">
+        <strong>Welcome to the TSPay.com Administration Portal</strong><br><br>
+        Statistics:
+        </div>
+        <br>
+        
+        <div style="width: 650px; text-align: center; border: 1px solid #ACACAC;">
+                  <p align="center" class="normalText"><strong>This Month
+                  </strong></p><iframe src="draw_chart.php?count=<!--{COUNT1}-->&days=<!--{DAYS1}-->"
+                  width="600" height="220" style=
+                  "margin: 0px; border: 0px; padding: 0px; background-color: #FFFFFF;"
+                  frameborder="0" scrolling="no"></iframe>
+                </div><br>
+                
+        <div style="width: 650px; text-align: center; border: 1px solid #ACACAC;">
+                  <p align="center" class="normalText"><strong>Last 100 Days
+                  days</strong></p><iframe src="draw_chart100.php"
+                  width="600" height="220" style=
+                  "margin: 0px; border: 0px; padding: 0px; background-color: #FFFFFF;"
+                  frameborder="0" scrolling="no"></iframe>
+                </div><br>
+        <div id="map" style="width: 650px; height: 300px; border: 2px solid #ACACAC;"></div>
+        <br>
+        <div style="align: center; width: 70%; border: 1px solid #ACACAC; text-align: center;">
+        <table width="95%" border="0" cellpadding="5" cellspacing="0">
+        <tr>
+        	<td align="right" class="normalText">Visits This Week:</td>
+        	<td align="left" class="normalText"><!--{WEEK_SUM}--></td>
+        	<td align="right" class="normalText">Visits This Month:</td>
+        	<td align="left" class="normalText"><!--{MONTH_SUM}--></td>
+        </tr>
+        <tr>
+        	<td align="right" class="normalText">Visits Last Week:</td>
+        	<td align="left" class="normalText"><!--{LWEEK_SUM}--></td>
+        	<td align="right" class="normalText">Visits Last Month:</td>
+        	<td align="left" class="normalText"><!--{LMONTH_SUM}--></td>
+        </tr>
+        </table>
+        </div>
+        <br>
+        <!-- END CONTENT -->        
